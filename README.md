@@ -22,53 +22,13 @@
 
 ## Categories
 
-### 🧬 Algorithm
+### 🧬 [Algorithm](https://github.com/iamkkwak/TIL/tree/master/Algorithm)  |  🕸 [Data Structure](https://github.com/iamkkwak/TIL/tree/master/Data%20Structure)
 
-- [유니온 파인드 (Union-find)](Algorithm/Union-find.md)
+### 🧱 Database  |  📲 Network  |  🔑 Security
 
-<br>
-
-### 🕸 Data Structure
-
-- [세그먼트 트리 (Segment Tree)](Data%20Structure/Segment%20Tree.md)
-
-<br>
-
-### 🧱 Database
-
-*... in the pipeline ...*
-
-<br>
-
-### 📲 Network
-
-*... in the pipeline ...*
-
-<br>
-
-### 🔑 Security
-
-*... in the pipeline ...*
-
-<br>
-
-### ⚙ Operating System
-
-- [Process와 Thread 비교](OS/Process%20%26%20Thread.md)
-- [Deadlock (교착상태)](OS/Deadlock.md)
-- [CPU 스케줄링 (선점 / 비선점)](OS/CPU%20Scheduling.md)
-
-<br>
-
-### 📢 Programming Language
-
-*... in the pipeline ...*
-
-<br>
+### ⚙ [Operating System](https://github.com/iamkkwak/TIL/tree/master/Operating%20System)  |  📢 Programming Language
 
 ### 📌 ETC
-
-*... in the pipeline ...*
 
 <br>
 
