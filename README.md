@@ -1,11 +1,11 @@
-<h1 align="center">Welcome to Computer Science 👋</h1>
+<h1 align="center">Today I Learned 📝</h1>
 <p>
 </p>
 
 
-> CS 공부용 개인 Repository 입니다 :)<br>
-> 알고리즘 및 자료구조, 데이터베이스와 네트워크, 운영체제 등을 다룹니다.<br>
-> 대부분은 블로그에 올린 내용과 비슷할 것 같습니다😅
+> 개인 공부용 Repository 입니다 :)<br>
+> SSAFY 1학기가 끝났는데 임베디드 반이라서 그런가... 보여줄 수 있는 마땅한 결과물이랄 게 없다보니 하루하루 공부한 기록의 중요성을 나름(?) 느껴서 좀 늦었지만 기록해봅니다😅 ~~늦었다고 생각할 때가 이미 늦었다.~~<br>
+> 알고리즘 및 자료구조, 운영체제 등의 Computer Science부터 WEB 또는 Embedded 실습 코드 뿐만 아니라 ML, Image Processing 같은 특정 분야까지 상관없이 모~두 다룹니다.<br>
 
 ### 🏠 [Homepage](https://github.com/iamkkwak/CS)
 
@@ -55,6 +55,7 @@
 ### ⚙ Operating System
 
 - [Process와 Thread 비교](OS/Process%20%26%20Thread.md)
+- [Deadlock (교착상태)](OS/Deadlock.md)
 - [CPU 스케줄링 (선점 / 비선점)](OS/CPU%20Scheduling.md)
 
 <br>
