@@ -20,17 +20,23 @@
 
 <br>
 
-## Categories
+<h1 align="center">Categories 📂</h1>
+
+## # Computer Science
 
 ### 🧬 [Algorithm](https://github.com/iamkkwak/TIL/tree/master/Algorithm)  |  🕸 [Data Structure](https://github.com/iamkkwak/TIL/tree/master/Data%20Structure)
 
 ### 🧱 Database  |  📲 Network  |  🔑 Security
 
-### ⚙ [Operating System](https://github.com/iamkkwak/TIL/tree/master/Operating%20System)  |  📢 Programming Language
-
-### 📌 ETC
+### ⚙ [Operating System](https://github.com/iamkkwak/TIL/tree/master/Operating%20System)  |  📌 ETC
 
 <br>
+
+<!--
+## # Programming Language
+
+<br>
+-->
 
 <br>
 
