@@ -1,3 +1,0 @@
-# 🧱 Database
-
-*... in the pipeline ...*

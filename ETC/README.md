@@ -1,3 +1,0 @@
-# 📌 ETC
-
-*... in the pipeline ...*
