@@ -2,7 +2,7 @@
 
 - CPU를 사용하려고 하는 프로세스들 사이의 우선순위를 관리하는 작업 - **자원을 어떤 프로세스에 얼마나 할당하는지** 정책을 만드는 것
 - 프로세스들에게 자원을 최대한 공평하게 배분하며 처리율과 CPU 이용률을 증가시키고, 오버헤드, 응답시간(Response time / Turnaround time), 대기시간을 최소화하기 위한 기법
-- **선점형 스케줄링(Preemptive Scheduling)** 과 **비선점형 스케줄링(Non-preemptive / Cooperative Scheduling)** 이 있음
+- <strong>선점형 스케줄링(Preemptive Scheduling)</strong>과 <strong>비선점형 스케줄링(Non-preemptive / Cooperative Scheduling)</strong>이 있음
 - 메모리에 여러 개의 프로세스를 올려놓고(다중 프로그래밍), CPU의 가동시간을 적절히 나누어(시분할) 각각의 프로세스에게 분배하여 실행
   ![img](https://media.vlpt.us/post-images/pa324/e9880700-15a3-11ea-a2b9-311a942f152c/image.png)
 
@@ -194,7 +194,6 @@
 
 <br>
 <br>
-
 
 ## References
 
