@@ -53,6 +53,7 @@
 ### 라운드 로빈 (Round Robin / RR)
 
 ![img](https://media.vlpt.us/post-images/pa324/aa46f8b0-15a0-11ea-8ab8-dbe6ee364b43/image.png)
+
 ![img](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbwsAyu%2FbtqtYKVKWZO%2Fzr8z1dwh0dcHjioiwhUMIK%2Fimg.png)
 
 ![img](https://t1.daumcdn.net/cfile/tistory/99BB8E405CC6C6302D)
@@ -158,6 +159,7 @@
 ### SJF (Shortest Job First)
 
 ![img](https://media.vlpt.us/post-images/pa324/7d6a5c80-159e-11ea-934d-7b176b41c2f3/image.png)
+
 ![img](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbzYkhC%2FbtqtY8oiA3Q%2F4kZqk2gBuwj0klLXZzVUN0%2Fimg.png)
 
 ![img](https://t1.daumcdn.net/cfile/tistory/999F5B405CC6C63014)
